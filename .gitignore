@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+htmlcov
+venv
+~$I_CHEN_8945274_A1.docx
+*.zip
